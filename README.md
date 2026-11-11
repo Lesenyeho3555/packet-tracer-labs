@@ -19,3 +19,5 @@ Download the project’s .pkt file and open it in Cisco Packet Tracer.
 
 ### Project background
 Developed as part of my Scaling Networks coursework at Botho University.
+
+![Southern Africa regional network topology](regional-backbone-topology.png.png)
